@@ -1,3 +1,4 @@
 prueba
 Hola chicas, estoy probando git y github desde la consola de gitbash 
 Fijense si pueden clonarlo y verlo 
+Hola, soy Vale! Si, lo pude clonar y ver, ahora estoy modificando para ver si salen los cambios, veamos...
