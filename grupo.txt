@@ -1,1 +1,3 @@
 prueba
+Hola chicas, estoy probando git y github desde la consola de gitbash 
+Fijense si pueden clonarlo y verlo 
