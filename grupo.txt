@@ -4,3 +4,5 @@ Fijense si pueden clonarlo y verlo
 Hola, soy Vale! Si, lo pude clonar y ver, ahora estoy modificando para ver si salen los cambios, veamos...
 
 Este es el segundo cambio que hago, ahora probando desde git bash
+Hola que bueno pude entrar
+
