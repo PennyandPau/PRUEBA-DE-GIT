@@ -6,3 +6,4 @@ Hola, soy Vale! Si, lo pude clonar y ver, ahora estoy modificando para ver si sa
 Este es el segundo cambio que hago, ahora probando desde git bash
 Hola que bueno pude entrar
 
+Probando ver los cambios de Miryan y subiendo los mios
